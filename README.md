@@ -2,6 +2,8 @@
 Web Programming with Python and Javascript
 
 **Step-1: Copy 	>>> HTPPS link**
+<img width="940" alt="image" src="https://github.com/user-attachments/assets/ddca4855-29af-45dd-87ec-c8a374786aa0" />
+
 **Step-2: Open Particular Folder >>> in cmd prompt**
 **Step-3: Paste HTPPS link 	>>> run command**
 ```
