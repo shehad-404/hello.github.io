@@ -25,7 +25,7 @@ git commit -m "message"
 ```
 git push
 ```
-**Step-8: Pull the code in local machine >>> run command**
+**or Step-8: Pull the code in local machine >>> run command**
 ```
 git pull
 ```
