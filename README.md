@@ -7,7 +7,7 @@ Web Programming with Python and Javascript
 **Step-2: Open Particular Folder >>> in cmd prompt**
 **Step-3: Paste HTPPS link 	>>> run command**
 ```
-git clone "paste HTPPS link"
+git clone "https://github.com/shehad-404/hello.github.io.git"
 ```
 **Step-4: Add all files >>> run command**
 ```
